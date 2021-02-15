@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.3;
+  font-family: 'Lexend Mega', sans-serif;
+  height: 700px;
+  color: gray;  
+  background-image: linear-gradient( violet, lightyellow);
+}
+
+#question-container {
+  height: 70px;
+  /* background: rgb(233, 194, 233); */
+}
+
+#user-name {
+  font-family: 'Lexend Mega', sans-serif;
+  height: 30px;
+  background:rgb(247, 226, 247);
+  border-color: azure;
+  border-radius: 45%;
+  outline: none;
+}
+
+#btn {
+  font-family: 'Lexend Mega', sans-serif;
+  background: rgb(245, 245, 243);
+  border: none;
+  outline: none;
+}
+
+#message-container {
+  height: 70px;
+  /* background: rgb(240, 197, 240); */
+}
+
+p {
+  font-size: 3rem;;
+}
